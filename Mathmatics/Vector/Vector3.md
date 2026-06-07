@@ -1,4 +1,4 @@
 # Vector3
 - [CSharp](../../Language/CSharp.md)
-- [Readme](../../Readme.md)
+- [Readme](../../README.md)
 - [Readmd](/README.md)
